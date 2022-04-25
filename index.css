@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+p{
+    font-family: Serif;
+    font-size: large;
+    color: darkblue;
+}
+ul{
+    list-style: outside;
+}
+img{
+    float: right;
+    height: 300px;
+    width: 300px;
+}
+a{
+  color: blue;
+}
+a:hover{
+    color: darkgoldenrod;
+}
+a:visited{
+    color: purple;
+}
+body{
+    max-width: 90%;
+    margin: 0 auto;
+    background-image: url("pic.jpg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: cover;
+
+}
+header>h1{
+    background-color: yellow;
+}
+q{
+    font-style: italic;
+}
+p.font-weight{
+    font-weight: bolder;
+}
+mark.red {
+    background: none;
+    color: red;
+}
+mark.green{
+    background: no-repeat;
+    color: green;
+}
+tr.grey{
+    background: grey;
+}
+tr.white{
+    background: white;
+}
+table{
+    width: 400px;
+}
