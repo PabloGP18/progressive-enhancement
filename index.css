@@ -57,4 +57,11 @@ tr.white{
 table{
     width: 400px;
     border: 1px solid;
+    text-align: center;
+}
+q.villagers{
+    color: red;
+}
+g.farmer{
+    color: blue;
 }
