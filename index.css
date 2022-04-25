@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
-p{
+*{
     font-family: Serif;
     font-size: large;
-    color: darkblue;
+    color: #00008b;
+    font-size:large;
 }
 ul{
     list-style: outside;
@@ -39,11 +40,11 @@ q{
 p.font-weight{
     font-weight: bolder;
 }
-mark.red {
+mark.bad {
     background: none;
     color: red;
 }
-mark.green{
+mark.good{
     background: no-repeat;
     color: green;
 }
@@ -55,4 +56,5 @@ tr.white{
 }
 table{
     width: 400px;
+    border: 1px solid;
 }
